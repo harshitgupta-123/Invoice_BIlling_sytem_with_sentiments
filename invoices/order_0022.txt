@@ -1,0 +1,36 @@
+           AMAZON ORDER RECEIPT
+Order No: #0022
+Generated: 26-06-2025 01:12
+----------------------------------------
+CUSTOMER DETAILS:
+Name: Nidhi
+Phone: 232
+Email: harshitgupta241005@gmail.com
+Address: New Delhi
+----------------------------------------
+ORDER DETAILS:
+Order Date: 2025-06-26
+Delivery Date: 2025-06-27
+Payment Method: Cash on Delivery
+----------------------------------------
+ITEMS ORDERED:
+1. Havells water purifier
+   Qty: 1 x ₹13999.00 = ₹13999.00
+
+----------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹  13999.00
+GST (18%):       ₹   2519.82
+Shipping:        FREE (₹500+ order)
+------------------------------
+TOTAL:           ₹  16518.82
+----------------------------------------
+SHIPPING POLICY:
+• Orders < ₹50: ₹40 shipping charge
+• Orders ₹50-₹499: ₹20 shipping charge
+• Orders ₹500+: FREE shipping
+----------------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+========================================

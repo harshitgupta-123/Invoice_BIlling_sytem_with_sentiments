@@ -1,0 +1,13 @@
+=== ABC STORE INVOICE ===
+Invoice No: 0009
+Date: 25-06-2025 23:48
+-----------------------------
+basmati rice x1 @ ₹50.00
+-----------------------------
+Subtotal: ₹50.00
+GST (18%): ₹9.00
+Total: ₹59.00
+-----------------------------
+Feedback: very humble 
+Sentiment: Negative
+=============================

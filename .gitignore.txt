@@ -1,0 +1,3 @@
+reviews.csv
+sales.csv
+sentiment_model_rf.pkl

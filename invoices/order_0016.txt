@@ -1,0 +1,37 @@
+==============================
+           AMAZON ORDER RECEIPT
+==============================
+Order No: #0016
+Generated: 26-06-2025 00:38
+------------------------------
+CUSTOMER DETAILS:
+Name: Harshit Gupta
+Phone: 343242
+Address: New Delhi 110043
+------------------------------
+ORDER DETAILS:
+Order Date: 2025-06-26
+Delivery Date: 2025-06-27
+Payment Method: Credit Card
+--------------------------------------------------
+ITEMS ORDERED:
+1. Samsung s23 ultra
+   Qty: 1 x ₹2.00 = ₹2.00
+
+--------------------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹      2.00
+GST (18%):       ₹      0.36
+Shipping:        ₹      0.00 (FREE)
+------------------------------
+TOTAL:           ₹      2.36
+Customer Review:
+"worthy"
+
+Rating: ★★★★★ (Positive Experience)
+Status: 😊 Customer Satisfied
+------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+==================================================

@@ -1,0 +1,13 @@
+=== ABC STORE INVOICE ===
+Invoice No: 0011
+Date: 26-06-2025 00:06
+-----------------------------
+Havells water purifier x1 @ ₹13999.00
+-----------------------------
+Subtotal: ₹13999.00
+GST (18%): ₹2519.82
+Total: ₹16518.82
+-----------------------------
+Feedback: Not good
+Sentiment: Negative
+=============================

@@ -1,0 +1,30 @@
+           AMAZON ORDER RECEIPT
+Order No: #0019
+Generated: 26-06-2025 00:45
+----------------------------------------
+CUSTOMER DETAILS:
+Name: Nidhi
+Phone: 232322
+Address: UP
+----------------------------------------
+ORDER DETAILS:
+Order Date: 2025-06-26
+Delivery Date: 2025-06-27
+Payment Method: Credit Card
+----------------------------------------
+ITEMS ORDERED:
+1. Register
+   Qty: 1 x ₹334.00 = ₹334.00
+
+----------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹    334.00
+GST (18%):       ₹     60.12
+Shipping:                 ₹20.00
+------------------------------
+TOTAL:           ₹    414.12
+----------------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+========================================

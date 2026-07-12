@@ -1,0 +1,44 @@
+           AMAZON ORDER RECEIPT
+Order No: #0024
+Generated: 28-06-2025 12:44
+----------------------------------------
+CUSTOMER DETAILS:
+Name: Parveen Kumar Gupta
+Phone: 3534344
+Email: harshit.@gmail.com
+Address: New Delhi
+----------------------------------------
+ORDER DETAILS:
+Order Date: 2025-06-28
+Delivery Date: 2025-06-29
+Payment Method: Cash on Delivery
+----------------------------------------
+ITEMS ORDERED:
+1. Samsung s23
+   Qty: 1 x ₹142322.00 = ₹142322.00
+
+----------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹ 142322.00
+GST (18%):       ₹  25617.96
+Shipping:        FREE (₹500+ order)
+------------------------------
+TOTAL:           ₹ 167939.96
+----------------------------------------
+SHIPPING POLICY:
+• Orders < ₹50: ₹40 shipping charge
+• Orders ₹50-₹499: ₹20 shipping charge
+• Orders ₹500+: FREE shipping
+----------------------------------------
+CUSTOMER FEEDBACK:
+"best one"
+
+Rating: ★★★★★ (Positive Experience)
+Status: 😊 Customer Satisfied
+AI Confidence: 99.6%
+Words Analyzed: 2
+----------------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+========================================

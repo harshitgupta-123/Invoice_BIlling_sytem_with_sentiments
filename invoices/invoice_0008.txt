@@ -1,0 +1,14 @@
+=== ABC STORE INVOICE ===
+Invoice No: 0008
+Date: 25-06-2025 23:41
+-----------------------------
+basmati rice x2 @ ₹60.00
+Lifebouy soap x1 @ ₹150.00
+-----------------------------
+Subtotal: ₹270.00
+GST (18%): ₹48.60
+Total: ₹318.60
+-----------------------------
+Feedback: very humble
+Sentiment: Negative
+=============================

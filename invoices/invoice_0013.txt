@@ -1,0 +1,14 @@
+Amazon.in Order Invoice
+Invoice No: 0013
+Customer: harshit, Phone: 9998989
+Address: h
+Order Date: 2025-06-26, Delivery Date: 2025-06-27
+Payment Method: UPI
+----------------------------------------
+Samsung S23 ultra    x1  @ ₹142232.00
+----------------------------------------
+Subtotal: ₹142232.00
+GST (18%): ₹25601.76
+Total: ₹167833.76
+Feedback: worthy
+Sentiment: Positive

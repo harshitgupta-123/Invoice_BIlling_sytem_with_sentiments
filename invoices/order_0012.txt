@@ -1,0 +1,18 @@
+=== AMAZON ORDER RECEIPT ===
+Order No: 0012
+Date: 26-06-2025 00:10
+-----------------------------
+Customer: Harshit Gupta
+Address: New Delhi
+Phone: 9311223233
+Order Date: 2025-06-26
+Delivery Date: 2025-06-27
+Payment Method: Cash on Delivery
+-----------------------------
+Samsung s23 ultra    x1 @ ₹132323.00 = ₹132323.00
+-----------------------------
+Subtotal: ₹132323.00
+GST (18%): ₹23818.14
+Total: ₹156141.14
+-----------------------------
+=============================

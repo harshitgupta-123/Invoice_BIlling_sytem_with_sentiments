@@ -1,0 +1,13 @@
+=== ABC STORE INVOICE ===
+Invoice No: 0007
+Date: 25-06-2025 23:32
+-----------------------------
+Samsung s23 ultra x1 @ ₹70.00
+-----------------------------
+Subtotal: ₹70.00
+GST (18%): ₹12.60
+Total: ₹82.60
+-----------------------------
+Feedback: not good
+Sentiment: Negative
+=============================

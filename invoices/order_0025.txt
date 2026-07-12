@@ -1,0 +1,44 @@
+           AMAZON ORDER RECEIPT
+Order No: #0025
+Generated: 11-07-2025 12:29
+----------------------------------------
+CUSTOMER DETAILS:
+Name: Satwik
+Phone: 9892929292
+Email: SASASAS@YAHOO.COM
+Address: GFDSDFGH
+----------------------------------------
+ORDER DETAILS:
+Order Date: 2025-07-11
+Delivery Date: 2025-07-12
+Payment Method: Amazon Pay
+----------------------------------------
+ITEMS ORDERED:
+1. mercedes
+   Qty: 1 x ₹10.00 = ₹10.00
+
+----------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹     10.00
+GST (18%):       ₹      1.80
+Shipping:                 ₹40.00
+------------------------------
+TOTAL:           ₹     51.80
+----------------------------------------
+SHIPPING POLICY:
+• Orders < ₹50: ₹40 shipping charge
+• Orders ₹50-₹499: ₹20 shipping charge
+• Orders ₹500+: FREE shipping
+----------------------------------------
+CUSTOMER FEEDBACK:
+"GOOD BRILLIANT WORST"
+
+Rating: ★★☆☆☆ (Needs Improvement)
+Status: 😞 Customer Dissatisfied
+AI Confidence: 80.9%
+Words Analyzed: 3
+----------------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+========================================

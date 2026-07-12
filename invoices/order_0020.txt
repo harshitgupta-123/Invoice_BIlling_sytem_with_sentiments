@@ -1,0 +1,30 @@
+           AMAZON ORDER RECEIPT
+Order No: #0020
+Generated: 26-06-2025 00:51
+----------------------------------------
+CUSTOMER DETAILS:
+Name: Harshit Gupta
+Phone: 343343
+Address: new delhi
+----------------------------------------
+ORDER DETAILS:
+Order Date: 2025-06-26
+Delivery Date: 2025-06-27
+Payment Method: Debit Card
+----------------------------------------
+ITEMS ORDERED:
+1. Pens
+   Qty: 1 x ₹242.00 = ₹242.00
+
+----------------------------------------
+PAYMENT SUMMARY:
+Subtotal:        ₹    242.00
+GST (18%):       ₹     43.56
+Shipping:                 ₹20.00
+------------------------------
+TOTAL:           ₹    305.56
+----------------------------------------
+Thank you for shopping with Amazon!
+Customer Service: 1800-3000-9009
+Email: customer-service@amazon.in
+========================================
